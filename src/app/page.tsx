@@ -14,7 +14,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--color-gold-500)_0%,_transparent_70%)] opacity-5" />
         <div className="container mx-auto px-6 relative z-10">
           <h2 className="text-2xl font-serif text-[var(--color-gold-400)] mb-4 tracking-widest drop-shadow-md">
-            THE GOLDEN JEWELRY STORE
+            AURA
           </h2>
           <p className="text-gray-400 text-sm font-light max-w-md mx-auto">
             Where ancestral magic meets wearable art.

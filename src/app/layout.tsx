@@ -33,9 +33,6 @@ export default function RootLayout({
     >
       <body className="min-h-full flex flex-col">
         <SmoothScroll>{children}</SmoothScroll>
-      </body>
-      <body className="min-h-full flex flex-col">
-        {children}
         {/* Premium Demo Disclaimer */}
         <div className="fixed bottom-8 right-8 z-[100] group pointer-events-none">
           <div className="absolute inset-0 bg-gradient-to-r from-silver-500 to-silver-900 rounded-full blur opacity-30 group-hover:opacity-50 transition-opacity duration-700"></div>
@@ -44,7 +41,7 @@ export default function RootLayout({
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-silver-300 opacity-75"></span>
               <span className="relative inline-flex rounded-full h-2 w-2 bg-silver-100"></span>
             </div>
-            <p className="text-[11px] tracking-[0.2em] text-silver-100 uppercase font-bold mix-blend-screen drop-shadow-md">
+            <p className="text-[11px] tracking-[0.3em] text-silver-100 uppercase font-bold mix-blend-screen drop-shadow-md">
               Demo Experience
             </p>
           </div>
