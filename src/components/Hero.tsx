@@ -71,7 +71,7 @@ export default function Hero() {
 
       <div ref={textRef} className="relative z-10 flex flex-col items-center text-center px-4">
         <span className="reveal-text text-[var(--color-gold-400)] uppercase tracking-[0.4em] text-xs mb-6 font-medium drop-shadow-[0_0_10px_rgba(252,232,166,0.8)]">
-          The Magical Jewelry
+          AURA
         </span>
         <h1 className="reveal-text text-5xl md:text-7xl lg:text-9xl font-serif text-white leading-tight drop-shadow-2xl">
           The Golden <br />
