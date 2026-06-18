@@ -36,7 +36,3 @@ Aura is a bespoke digital experience for a luxury jewelry brand, blending tradit
 - `/src/app`: Next.js App Router and page layouts.
 - `/src/components`: Reusable UI components and animation wrappers.
 - `/public`: Static assets, including custom favicons and curated photography.
-
----
-
-*Crafted with precision for the discerning eye.*
